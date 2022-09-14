@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FOLIARZ</string>
+
+    <string-array name="cars">
+        <item>BMW</item>
+        <item>Toyota</item>
+        <item>Mercedes</item>
+        <item>Fiat</item>
+        <item>Volkswagen</item>
+        <item>Audi</item>
+        <item>Seat</item>
+        <item>Ford</item>
+
+
+    </string-array>
+
+    <string-array name="moedels">
+        <item>Kombi</item>
+        <item>Sedan</item>
+        <item>Coupe</item>
+        <item>Hatchback</item>
+        <item>Bus</item>
+        <item>Inny</item>
+    </string-array>
+</resources>

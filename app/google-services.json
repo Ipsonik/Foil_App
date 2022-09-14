@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "932712638940",
+    "project_id": "foliarzapp",
+    "storage_bucket": "foliarzapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932712638940:android:1cd17ee8352687c6e80719",
+        "android_client_info": {
+          "package_name": "com.example.foliarz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932712638940-elc0r6p00q2bst08aul6s8vfiv3aeujl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcNAcl3E41pnuyyzrA4Pv0eUhJEKy0f5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932712638940-elc0r6p00q2bst08aul6s8vfiv3aeujl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
